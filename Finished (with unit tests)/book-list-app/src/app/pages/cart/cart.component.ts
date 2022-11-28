@@ -49,6 +49,10 @@ export class CartComponent implements OnInit {
     this.listCartBook = [];
     this._bookService.removeBooksFromCart();
   }
-
+  public buyBooks(){
+    this._bookService.buyBooks(this.listCartBook).subscribe(()=>{
+      this._bookService._toastSuccess(this.listCartBook[0]);
+    });
+  }
 
 }

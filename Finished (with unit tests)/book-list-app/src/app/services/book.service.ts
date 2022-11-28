@@ -19,6 +19,10 @@ export class BookService {
     const url: string = environment.API_REST_URL + `/api/getProducts`;
     return this._httpClient.get<Book[]>(url);
   }
+  public buyBooks(books): Observable<Book[]> {
+    const url: string = environment.API_REST_URL + `/api/buyProducts`;
+    return this._httpClient.post<Book[]>(url,books);
+  }
 
   public getBooksFromCart(): Book[] {
     let listBook: Book[] = JSON.parse(localStorage.getItem('listCartBook'));
@@ -67,7 +71,7 @@ export class BookService {
     return listBookCart;
   }
 
-  private _toastSuccess(book: Book) {
+  public _toastSuccess(book: Book) {
     const Toast = swal.mixin({
       toast: true,
       position: 'bottom-end',
