@@ -16,7 +16,7 @@ export class BookService {
   ) { }
 
   public getBooks(): Observable<Book[]> {
-    const url: string = environment.API_REST_URL + `/book`;
+    const url: string = environment.API_REST_URL + `/api/getProducts`;
     return this._httpClient.get<Book[]>(url);
   }
 
