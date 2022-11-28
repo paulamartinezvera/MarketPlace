@@ -1,0 +1,85 @@
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Data.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Data.pdb
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Dapper.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Dapper.pdb
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Dapper.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\obj\Debug\Management.Data.csproj.CopyComplete
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\obj\Debug\Management.Data.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\obj\Debug\Management.Data.pdb
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\obj\Debug\Management.Data.csprojAssemblyReference.cache
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Models.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Models.pdb
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Web.Cors.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Web.Http.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Web.Http.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Data.dll.config
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\IdentityManager.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Owin.dll
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Management.Models.dll.config
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\IdentityManager.pdb
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\1014305949\source\repos\netFrameworkUsuarios\Management.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Data.dll.config
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Data.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Data.pdb
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Dapper.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\EPPlus.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\IdentityManager.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Models.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Cors.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Security.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Newtonsoft.Json.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Owin.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Web.Cors.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Web.Http.Cors.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Web.Http.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Models.pdb
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Management.Models.dll.config
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Dapper.pdb
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Dapper.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\EPPlus.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\IdentityManager.pdb
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Cors.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Security.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\Newtonsoft.Json.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Net.Http.Formatting.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Web.Http.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\System.Web.Http.Cors.xml
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\bin\Debug\es\System.Web.Http.resources.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\obj\Debug\Management.Data.csprojAssemblyReference.cache
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\obj\Debug\Management.Data.csproj.CoreCompileInputs.cache
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\obj\Debug\Management.Data.csproj.CopyComplete
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\obj\Debug\Management.Data.dll
+D:\paula\Downloads\Project (1)\Finished (with unit tests)\Back-End\Management.Data\obj\Debug\Management.Data.pdb
