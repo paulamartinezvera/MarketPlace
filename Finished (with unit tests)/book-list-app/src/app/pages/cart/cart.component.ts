@@ -59,7 +59,6 @@ export class CartComponent implements OnInit {
   public buyBooks(){
     for(var i=0;i<this.listCartBook.length;i++){
       var userString= sessionStorage.getItem('user'); 
-      alert("userString "+userString);
       var userJson=JSON.parse(userString);
       this.listCartBook[i].userId=userJson[0].Id;
       if(this.listCartBook.length-i==1){
