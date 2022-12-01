@@ -7,4 +7,5 @@ export interface Book {
   photoUrl?: string;
   price?: number;
   amount?: number;
+  userId?:string;
 }

@@ -12,16 +12,20 @@ export class LoginComponent implements OnInit {
   email: string;
   password: string;
 
-  constructor(public userService: UsersService,private router: Router, private route: ActivatedRoute) {}
+  constructor(public userService: UsersService,private router: Router, private route: ActivatedRoute) {
+    sessionStorage.removeItem('user'); 
+  }
 
   login() {
     const user = {username: this.email, password: btoa(this.password)};
-    this.userService.login(user).subscribe( (data:boolean) => {
-      if(data==true){
-
-        this.navTo("home");
+    this.userService.login(user).subscribe( (data:any) => {
+      if(data.length==0){
+        this.userService._toastError('Usuario o clave incorrecta');
+        sessionStorage.removeItem('user');   
       }else{
-        this.userService._toastError();
+        var userString=JSON.stringify(data);
+        sessionStorage.setItem('user', userString); 
+        this.navTo("home");
       }
     
     });

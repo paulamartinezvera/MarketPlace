@@ -16,17 +16,8 @@ namespace netFrameworkUsuarios.Controllers
         {
             try
             {
-                var response= DaoUsers.Instance.login(User);
-                if (response.Count > 0)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-               
-
+                return DaoUsers.Instance.login(User);
+                
             }
             catch (Exception e)
             {

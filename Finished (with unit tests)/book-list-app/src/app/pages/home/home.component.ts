@@ -18,7 +18,15 @@ export class HomeComponent implements OnInit {
   constructor(
     public readonly bookService: BookService,
     private router: Router
-  ) { }
+  ) {
+    var usuarioSesion= sessionStorage.getItem('user'); 
+    //alert("usuarioSesion "+usuarioSesion);
+    if(usuarioSesion=="[]" || usuarioSesion==null){
+      this.navTo("login");
+    }
+   
+
+   }
 
   ngOnInit(): void {
 

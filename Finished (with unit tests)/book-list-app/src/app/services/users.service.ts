@@ -18,7 +18,7 @@ export class UsersService {
     return this.http.post(url, user);
     
   }
-  public _toastError() {
+  public _toastError(mensaje) {
     const Toast = swal.mixin({
       toast: true,
       position: 'bottom-end',
@@ -31,7 +31,7 @@ export class UsersService {
     });
     Toast.fire({
       icon: 'error',
-      title:  'Usuario o clave incorrecta'
+      title:  mensaje
     });
   }
 }
