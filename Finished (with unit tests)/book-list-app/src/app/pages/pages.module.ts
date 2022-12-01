@@ -10,36 +10,29 @@ import { HomeComponent } from './home/home.component';
 import { CartComponent } from './cart/cart.component';
 import { NavModule } from '../nav/nav.module';
 import { ReduceTextPipe } from './reduce-text/reduce-text.pipe';
-import { LoginComponent } from './login/login.component';
-import { HttpClientModule } from '@angular/common/http';
-import { FormsModule } from '@angular/forms';
-import { RouterModule, Routes } from '@angular/router';
 import { MarketComponent } from './market/market.component';
-
+import { LoginComponent } from './login/login.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
   imports: [
     BrowserModule,
-    HttpClientModule,
     CommonModule,
     NavModule,
     PagesRoutingModule,
-    FormsModule,
-    RouterModule
+    FormsModule
   ],
   declarations: [
     PagesComponent,
     HomeComponent,
     CartComponent,
-    LoginComponent,
     ReduceTextPipe,
     MarketComponent,
+    LoginComponent,
   ],
   exports: [
     PagesComponent,
-    LoginComponent,
-    HomeComponent
   ]
 })
 export class PagesModule { }

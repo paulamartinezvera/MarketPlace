@@ -7,16 +7,26 @@ import { Router } from '@angular/router';
   styleUrls: ['./nav.component.scss']
 })
 export class NavComponent implements OnInit {
-
+  IsLogin:boolean;
   constructor(
     private router: Router
-  ) { }
+  ) { 
+   
+    this.IsLogin=false;
+
+    if(this.router.url=="/"){
+      this.IsLogin=true;
+    }else if(this.router.url=="/login"){
+
+    }
+  }
 
   ngOnInit(): void {
   }
 
   navTo(path: string): void {
     this.router.navigate([`/${path}`]);
+
   }
 
 }

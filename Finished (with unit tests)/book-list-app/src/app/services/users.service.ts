@@ -15,5 +15,4 @@ export class UsersService {
     return this.http.post(url, user);
     
   }
- 
 }
