@@ -14,6 +14,7 @@ import { LoginComponent } from './login/login.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
+import { MarketComponent } from './market/market.component';
 
 
 
@@ -24,7 +25,8 @@ import { RouterModule, Routes } from '@angular/router';
     CommonModule,
     NavModule,
     PagesRoutingModule,
-    FormsModule
+    FormsModule,
+    RouterModule
   ],
   declarations: [
     PagesComponent,
@@ -32,10 +34,12 @@ import { RouterModule, Routes } from '@angular/router';
     CartComponent,
     LoginComponent,
     ReduceTextPipe,
+    MarketComponent,
   ],
   exports: [
     PagesComponent,
-    LoginComponent
+    LoginComponent,
+    HomeComponent
   ]
 })
 export class PagesModule { }

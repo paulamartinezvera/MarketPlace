@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { HomeComponent } from './home/home.component';
 import { CartComponent } from './cart/cart.component';
 import { LoginComponent } from './login/login.component';
+import { MarketComponent } from './market/market.component';
 
 
 export const routes: Routes = [
@@ -13,6 +14,10 @@ export const routes: Routes = [
   {
     path: 'home',
     component: HomeComponent
+  },
+  {
+    path: 'market',
+    component: MarketComponent
   },
   {
     path: 'cart',

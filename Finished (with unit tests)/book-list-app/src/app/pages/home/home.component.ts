@@ -1,9 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { BookService } from '../../services/book.service';
-import { Book } from '../../models/book.model';
-
-import { take } from 'rxjs/operators';
-
+import { UsersService } from 'src/app/services/users.service';
+import { Router, ActivatedRoute } from '@angular/router'; 
+import { NavigationExtras } from '@angular/router'; 
 
 @Component({
   selector: 'app-home',
@@ -11,23 +9,23 @@ import { take } from 'rxjs/operators';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
+  email: string;
+  password: string;
 
-  public listBook: Book[] = [];
+  constructor(public userService: UsersService,private router: Router, private route: ActivatedRoute) {}
 
-  constructor(
-    public readonly bookService: BookService
-  ) { }
-
-  ngOnInit(): void {
-
-    this.getBooks();
-
-  }
-
-  public getBooks(): void {
-    this.bookService.getBooks().pipe(take(1)).subscribe((resp: Book[]) => {
-      this.listBook = resp;
+  login() {
+    const user = {username: this.email, password: btoa(this.password)};
+    this.userService.login(user).subscribe( (data:boolean) => {
+      if(data==true){
+        this.router.navigate(['market'], { relativeTo: this.route });
+      }
+    
     });
   }
+
+  ngOnInit(): void {
+  }
+
 
 }
